@@ -4,12 +4,12 @@ The UEFA Champions League is an annual club football competition organised by th
 
 # Dataset Observations
 
-   attacking.csv : All attacking data.
-   attempts.csv : All attacking atttempts data.
-   defending.csv : All defence and tackle data.
-   disciplinary.csv : Fouls, Cards data.
-   distributon.csv : Ball distributions and passing data.
-   goalkeeping.csv : GK (Save, Punch, concedes) data.
-   goals.csv : Goals data.
-   key_stats.csv : Overall states of all players.
-   8 files containing different stats, by player name and clubs names.
+    attacking.csv : All attacking data.
+    attempts.csv : All attacking atttempts data.
+    defending.csv : All defence and tackle data.
+    disciplinary.csv : Fouls, Cards data.
+    distributon.csv : Ball distributions and passing data.
+    goalkeeping.csv : GK (Save, Punch, concedes) data.
+    goals.csv : Goals data.
+    key_stats.csv : Overall states of all players.
+    8 files containing different stats, by player name and clubs names.
